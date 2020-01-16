@@ -28,7 +28,7 @@ var config = {
     imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.png",
          "这是我们在一起的": "./imgs/birthday.jpg",
-          "第一个生日": "./imgs/shashade.jpg",
+          "第一个生日": "./imgs/shashade.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
