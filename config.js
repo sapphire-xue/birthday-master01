@@ -16,7 +16,7 @@ var config = {
         "要把我家可爱猪猪喂饱饱",
         "然后抱走",
         "YAMI~~",
-        "YAMI~~",
+        "生日快乐~~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -30,7 +30,10 @@ var config = {
     imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.png",
          "这是我们在一起的": "./imgs/birthday.jpg",
-         "第一个生日": "./imgs/shashade.png",
+         "第一个生日": "./imgs/shashade.png", 
+         "谁让你是我的小宝贝呢": "./imgs/zhuzhu3.jpg",
+        "YAMI~~": "./imgs/yami2.jpg",
+        "生日快乐~~": "./imgs/yami2.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
