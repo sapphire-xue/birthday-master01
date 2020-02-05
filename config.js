@@ -30,7 +30,7 @@ var config = {
     imgs: {
         "心爱的小可爱": "./imgs/xiaokeai.png",
          "这是我们在一起的": "./imgs/birthday.jpg",
-         "第一个生日": "./imgs/zhuzhu3.jpg", 
+         "第一个生日": "./imgs/zhuzhu1.jpg", 
          "谁让你是我的小宝贝呢": "./imgs/shashade.png",
         "生日快乐~~": "./imgs/yami2.jpg",
         "YAMI~~": "./imgs/yami2.jpg",
